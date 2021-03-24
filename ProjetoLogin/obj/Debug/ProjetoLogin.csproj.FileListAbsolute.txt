@@ -1,0 +1,14 @@
+c:\users\oaraujo\documents\visual studio 2017\Projects\ProjetoLogin\ProjetoLogin\bin\Debug\ProjetoLogin.exe.config
+c:\users\oaraujo\documents\visual studio 2017\Projects\ProjetoLogin\ProjetoLogin\bin\Debug\ProjetoLogin.exe
+c:\users\oaraujo\documents\visual studio 2017\Projects\ProjetoLogin\ProjetoLogin\bin\Debug\ProjetoLogin.pdb
+c:\users\oaraujo\documents\visual studio 2017\Projects\ProjetoLogin\ProjetoLogin\obj\Debug\ProjetoLogin.csprojResolveAssemblyReference.cache
+c:\users\oaraujo\documents\visual studio 2017\Projects\ProjetoLogin\ProjetoLogin\obj\Debug\ProjetoLogin.Apresentaçao.Entrar.resources
+c:\users\oaraujo\documents\visual studio 2017\Projects\ProjetoLogin\ProjetoLogin\obj\Debug\ProjetoLogin.Properties.Resources.resources
+c:\users\oaraujo\documents\visual studio 2017\Projects\ProjetoLogin\ProjetoLogin\obj\Debug\ProjetoLogin.csproj.GenerateResource.Cache
+c:\users\oaraujo\documents\visual studio 2017\Projects\ProjetoLogin\ProjetoLogin\obj\Debug\ProjetoLogin.exe
+c:\users\oaraujo\documents\visual studio 2017\Projects\ProjetoLogin\ProjetoLogin\obj\Debug\ProjetoLogin.pdb
+C:\Users\oaraujo\Documents\Visual Studio 2017\Projects\ProjetoLogin\ProjetoLogin\obj\Debug\ProjetoLogin.NovaTarefa.resources
+C:\Users\oaraujo\Documents\Visual Studio 2017\Projects\ProjetoLogin\ProjetoLogin\bin\Debug\MaterialSkin.dll
+C:\Users\oaraujo\Documents\Visual Studio 2017\Projects\ProjetoLogin\ProjetoLogin\obj\Debug\ProjetoLogin.Apresentaçao.AFazer.resources
+C:\Users\oaraujo\Documents\Visual Studio 2017\Projects\ProjetoLogin\ProjetoLogin\obj\Debug\ProjetoLogin.Cadastrar.resources
+C:\Users\oaraujo\Documents\Visual Studio 2017\Projects\ProjetoLogin\ProjetoLogin\obj\Debug\ProjetoLogin.Apresentaçao.Feitas.resources
